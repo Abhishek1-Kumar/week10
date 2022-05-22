@@ -24,3 +24,5 @@ def main():
     else:
         print("The directory doesnt exist! try again!")
 main()
+
+#added new file in the project folder
